@@ -3,5 +3,6 @@ This script is supposed to be able to update your computer constantly (use at yo
 
 ### Currently supported package managers
  - [x] apt/apt-get
- - [ ] pacman
- - [ ] paru
+ - [ ] pacman (plus AUR)
+ - [ ] yum
+ - [ ] yay 
